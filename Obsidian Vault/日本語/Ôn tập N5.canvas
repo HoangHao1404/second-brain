@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"41c15df5d265de44","type":"text","text":"**Ưu tiên 2: Ngữ pháp**\n1. Trợ từ cơ bản (は、が、を、に、で、へ、と、も)\n2. Thì & thể (thể て、た、ない、る、、ない、る、)\n3. Câu nối (〜から、〜けど、〜て)\n4. Biểu đạt (〜たい、〜ている、〜ことができる)","x":-60,"y":-190,"width":460,"height":160,"color":"2"},
+		{"id":"46b26686ecf72c39","type":"text","text":"**Ưu tiên 3 – Nghe**\n\nNghe lại đề N5 cũ trên YouTube\nThi lại các đề JLPT N5 để kiểm tra kiến thức\n","x":480,"y":-190,"width":320,"height":159,"color":"6"},
+		{"id":"560b2c4256245b83","type":"text","text":"**Ưu tiên 1:  Từ vựng**\n\n1. Học từ vựng: 800 từ\n2. Kanji: 100 từ\n","x":-400,"y":-175,"width":250,"height":129,"color":"5"}
+	],
+	"edges":[
+		{"id":"fad08a5251c67406","fromNode":"560b2c4256245b83","fromSide":"right","toNode":"41c15df5d265de44","toSide":"left"},
+		{"id":"97078a54982160b9","fromNode":"41c15df5d265de44","fromSide":"right","toNode":"46b26686ecf72c39","toSide":"left"}
+	]
+}

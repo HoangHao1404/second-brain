@@ -1,0 +1,19 @@
+{
+  "quickadd:choice:1409372e-8496-4378-9120-91255e3ff9b2": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "CapsLock"
+    }
+  ]
+}

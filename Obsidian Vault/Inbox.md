@@ -1,0 +1,2 @@
+- 16:36 Tiếp theo sẽ đi chơi nhiều hơn
+- 16:35 Ghi chú hôm nay sẽ là đi sinh nhật của Việt Long

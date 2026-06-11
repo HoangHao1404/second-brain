@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "d776950284ac686c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1617a3848b19a532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267c09b640557b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sức khỏe tinh thần/Một nội tâm mạnh mẽ là \"liều thuốc\" cho tất cả.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Một nội tâm mạnh mẽ là \"liều thuốc\" cho tất cả"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e11e37f4ed1ed55",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c90f80c2e31f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0083966ce2a1fbd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "3643e3430610e8c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "0caf3b3a313a821f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "dbfe4f0293af677a",
+    "type": "split",
+    "children": [
+      {
+        "id": "297e598b2e071623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845455518cbddd01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Các phương pháp học/Spaced Repetition (Lặp lại ngắt quãng).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của Spaced Repetition (Lặp lại ngắt quãng)"
+            }
+          },
+          {
+            "id": "80f75ec063950ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Các phương pháp học/Spaced Repetition (Lặp lại ngắt quãng).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra từ Spaced Repetition (Lặp lại ngắt quãng)"
+            }
+          },
+          {
+            "id": "388adf6a4b615d40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Thẻ"
+            }
+          },
+          {
+            "id": "7500855918cf007a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tất cả thuộc tính"
+            }
+          },
+          {
+            "id": "178ca8c7f45343e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sức khỏe tinh thần/Một nội tâm mạnh mẽ là \"liều thuốc\" cho tất cả.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương của Một nội tâm mạnh mẽ là \"liều thuốc\" cho tất cả"
+            }
+          },
+          {
+            "id": "573d79bab81dd42a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "a56ccccd4164e01f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "6fe113a94ecfb4a0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view-connections",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "e6b4822eb69d7604",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Các phương pháp học/Spaced Repetition (Lặp lại ngắt quãng).md"
+              },
+              "icon": "lucide-info",
+              "title": "Thuộc tính tệp cho Spaced Repetition (Lặp lại ngắt quãng)"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Mở xem biểu đồ": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "switcher:Mở bộ chuyển đổi nhanh": true,
+      "canvas:Tạo bảng mới": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": true,
+      "bases:Tạo cơ sở mới": false,
+      "copilot:Open Copilot Chat": false,
+      "random-note:Mở ghi chú ngẫu nhiên": true,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "267c09b640557b88",
+  "lastOpenFiles": [
+    "Sức khỏe tinh thần/Chánh niệm.md",
+    "日本語/Ôn tập N5.canvas",
+    "2026-06-11.md",
+    "2026-06-07.md",
+    "copilot/copilot-custom-prompts/Giải thích lại theo phương pháp Feynman.md",
+    "copilot/copilot-custom-prompts/Giải thích khái niệm, lý thuyết.md",
+    "copilot/copilot-custom-prompts/Dịch sang tiếng Việt.md",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Confirmation Bias - Thiên kiến xác nhận.md",
+    "Các phương pháp học/MOC các phương pháp học - ROOT.md",
+    "Tư duy và nhận thức/Mental model - Cách não bộ tư duy/Inversion - Tư duy đảo ngược.md",
+    "Tư duy và nhận thức/Mental model - Cách não bộ tư duy/Mental Models – Cách não bộ bạn ra quyết định (ROOT).md",
+    "Tư duy và nhận thức/Mental model - Cách não bộ tư duy/Second-Order Thinking - Tư duy hệ quả bậc 2 và 3.md",
+    "Tư duy và nhận thức/Thinking Tools - Công cụ tư duy (chưa làm)/Phương pháp đặt câu hỏi của Socrates.md",
+    "Tư duy và nhận thức/Thinking Tools - Công cụ tư duy (chưa làm)/5 WHY.md",
+    "Tư duy và nhận thức/Mental model - Cách não bộ tư duy/First Principles Thinking - Tư duy nguyên bản.md",
+    "Tư duy và nhận thức/Mindset/Tư duy cố định và tư duy phát triển - (Mindset | Carol Dweck).md",
+    "Các phương pháp học/Học siêu tốc.md",
+    "copilot/copilot-custom-prompts/Format lại văn bảng phù hợp với Obsidian.md",
+    "Tư duy và nhận thức/Mindset",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Bandwagon Effect - Hiệu ứng đám đông.md",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Hindsight Bias - Thiên kiến nhìn lại.md",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Anchoring Bias - Hiệu ứng mỏ neo.md",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Thiên kiến nhận thức.md",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức/Sunk Cost Fallacy - Ngụy biện chìm.md",
+    "Đồ Án Cá Nhân/1.1. Phân tích chi tiết ngữ cảnh/Usercase.md",
+    "Đồ Án Cá Nhân/1.1. Phân tích chi tiết ngữ cảnh/Giai đoạn 5 — Validation & Traceability.md",
+    "Chưa đặt tên.canvas",
+    "Chưa đặt tên 1.canvas",
+    "Các phương pháp học/Spaced Repetition (Lặp lại ngắt quãng).md",
+    "2026-06-05.md",
+    "DB.base",
+    "Tư duy và nhận thức/Cognitive Biases - Thiên kiến nhận thức",
+    "Tư duy và nhận thức/Thinking Tools - Công cụ tư duy (chưa làm)",
+    "Tư duy và nhận thức",
+    "Tư duy và nhận thức/Mental model - Cách não bộ tư duy",
+    "Đồ Án Cá Nhân/2. Phân tích chi tiết ngữ cảnh/Untitled Diagram.svg",
+    "Ghi chú ngắn/Chưa đặt tên.base",
+    "Đồ Án Cá Nhân/1.1. Phân tích chi tiết ngữ cảnh",
+    "Đồ Án Cá Nhân",
+    "Phát triển trí óc",
+    "Pasted image 20260524094509.png",
+    "Ăn cơm.canvas"
+  ]
+}

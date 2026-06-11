@@ -1,0 +1,14 @@
+{
+  "snippets_file": "mermaid : ```mermaid\\nflowchart LR\\n$0\\n```\n\n\n",
+  "snippets": [
+    "mermaid : ```mermaid\\nflowchart LR\\n$0\\n```"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
